@@ -12,5 +12,5 @@ Student Info
 
 * Name: Nguyễn Hoàng Tùng
 * ID: BI12-475  
-* Group ID: ??? will add later
+* Group ID: 22
 
